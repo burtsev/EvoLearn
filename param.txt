@@ -1,0 +1,12 @@
+nProblems	100
+complexity	20
+populationSize	500
+version	0
+period	25000
+mutationProbability	0.001	0.0005	0.00005	0.0002	0.00002	0.000005	0.000002
+nVer	10
+nG	4000
+nA	5
+nLT	5
+noCompensation	true
+sexRep	false
